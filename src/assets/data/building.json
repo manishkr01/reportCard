@@ -1,0 +1,61 @@
+{
+  "buildings": [{
+      "name": "Building 1",
+      "buildingId": 1,
+      "siteId": 1
+    },
+    {
+      "name": "Building 2",
+      "buildingId": 2,
+      "siteId": 1
+    },
+    {
+      "name": "Building 3",
+      "buildingId": 3,
+      "siteId": 1
+    },
+    {
+      "name": "Building 4",
+      "buildingId": 4,
+      "siteId": 1
+    },
+    { "name": "Building 1",
+      "buildingId": 1,
+      "siteId": 2
+    },
+    {
+      "name": "Building 2",
+      "buildingId": 2,
+      "siteId": 2
+    },
+    {
+      "name": "Building 3",
+      "buildingId": 3,
+      "siteId": 2
+    },
+    {
+      "name": "Building 4",
+      "buildingId": 4,
+      "siteId": 2
+    },
+    { "name": "Building 1",
+      "buildingId": 1,
+      "siteId": 3
+    },
+    {
+      "name": "Building 2",
+      "buildingId": 2,
+      "siteId": 3
+    },
+    {
+      "name": "Building 3",
+      "buildingId": 3,
+      "siteId": 3
+    },
+    {
+      "name": "Building 4",
+      "buildingId": 4,
+      "siteId": 3
+    }
+  ]
+}

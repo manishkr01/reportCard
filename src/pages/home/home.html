@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+  <button ion-item *ngFor="let list of projectList; let i = index" (click)="getLocationDetail(list.id)">
+    <ion-avatar item-start>
+      <img src="assets/icon/building.jpg">
+    </ion-avatar>
+    <h2>{{i}}</h2>
+    <p>{{list.name}}</p>
+  </button>
+</ion-list>
+</ion-content>
